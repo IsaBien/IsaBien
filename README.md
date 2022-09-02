@@ -1,8 +1,7 @@
-- 👋 Óla, Eu sou Isabella
-- 👀 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Óla, Eu sou Isabella
+## 👀 Estou interessada em programção
+## 🌱 Atualmente estou aprendendo tags HTML
+
 
 <!---
 IsaBien/IsaBien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
